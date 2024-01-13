@@ -1,0 +1,9 @@
+.posts-title{
+    border: 2px solid springgreen;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+}
+.title{
+    flex-grow: 1;
+}
